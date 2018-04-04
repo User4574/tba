@@ -1,0 +1,9 @@
+{
+  "apple": {
+    "edible": true,
+    "energy": 2
+  },
+  "lamp": {
+    "light": true
+  }
+}

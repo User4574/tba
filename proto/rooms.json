@@ -1,0 +1,25 @@
+{
+  "start": {
+    "summary": "A bland, starting room.",
+    "inventory": [
+      "apple",
+      "lamp"
+    ],
+    "north": "another",
+    "south": "another",
+    "east": "start",
+    "west": "start"
+  },
+  "another": {
+    "summary": "Another room.",
+    "dark": true,
+    "inventory": [
+      "apple",
+      "apple"
+    ],
+    "north": "start",
+    "south": "start",
+    "east": "another",
+    "west": "another"
+  }
+}
